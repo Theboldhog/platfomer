@@ -2,7 +2,7 @@
 
 ## Downloads
 
--Repository:
+-Repository:  https://emccau5902.github.io/platfomer/
 
 -Zip: https://github.com/emccau5902/platfomer/archive/master.zip
 
