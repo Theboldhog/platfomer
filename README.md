@@ -25,6 +25,8 @@
 
 ### Screenshots
 
+Start Screen 
 ![Start Screen Image](https://github.com/emccau5902/platfomer/blob/master/screenshot_1.PNG)
 
+Gameplay 
 ![Gameplay Image](https://github.com/emccau5902/platfomer/blob/master/screenshot_2.PNG)
