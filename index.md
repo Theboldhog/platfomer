@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Ethan's Pygame Platformer
 
-You can use the [editor on GitHub](https://github.com/emccau5902/platfomer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Downloads
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-Repository:  https://emccau5902.github.io/platfomer/
 
-### Markdown
+-Zip: https://github.com/emccau5902/platfomer/archive/master.zip
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-The Necessary version of Pygame needed to play this is 3.4.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Instructions
+-Controls: WASD for movement (The S key makes the hero crouch), Space to jump, and P to pause the game.
 
-- Bulleted
-- List
+-The goal of the game is to finish the first level.
 
-1. Numbered
-2. List
+-There are 3 enemies; a monster, which moves back and forth on platforms, a bear which moves to and fro on the ground, and a bird-esque enemy that floats.
 
-**Bold** and _Italic_ and `Code` text
+-The powerups that are included in the game are one ups, speed ups, hearts, and a power down of sorts: speed down.
 
-[Link](url) and ![Image](src)
-```
+-Besides the enemies, the main obstacle is navigating your way to the end of level by platforming. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-There is also a chest which requires a key to open, and will award you with a powerup when opened.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emccau5902/platfomer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Screenshots
 
-### Support or Contact
+Start Screen 
+![Start Screen Image](https://github.com/emccau5902/platfomer/blob/master/screenshot_1.PNG)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Gameplay 
+![Gameplay Image](https://github.com/emccau5902/platfomer/blob/master/screenshot_2.PNG)
