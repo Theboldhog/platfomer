@@ -1,4 +1,4 @@
-# Pygame Platformer
+# Ethan's Pygame Platformer
 
 ## About
 <img src="/nog2k17.png" width="360">
